@@ -1,5 +1,7 @@
 # AstroAgent — Personal Space & Science AI Agent
+## Preview
 
+![AstroAgent UI](ss1.png)
 An agentic AI application that fetches the latest space, astronomy, and science news, stores them in the **Endee Vector Database**, and lets you ask questions in natural language through a beautiful web interface.
 
 ---
