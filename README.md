@@ -1,7 +1,8 @@
 # AstroAgent — Personal Space & Science AI Agent
-## Preview
 
+## Preview
 ![AstroAgent UI](ss1.png)
+
 An agentic AI application that fetches the latest space, astronomy, and science news, stores them in the **Endee Vector Database**, and lets you ask questions in natural language through a beautiful web interface.
 
 ---
@@ -26,6 +27,8 @@ Groq LLM generates intelligent answer
         ↓
 Answer displayed in Space-themed Web UI
 ```
+![AstroAgent UI](ss2.png)
+![AstroAgent UI](ss3.png)
 
 ---
 
