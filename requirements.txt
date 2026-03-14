@@ -1,0 +1,4 @@
+endee
+groq
+requests
+sentence-transformers
